@@ -1,0 +1,11 @@
+.*
+*.key
+*.crt
+*.cert
+*.pem
+.env
+credentials.csv
+config
+node_modules
+examples*
+!/.gitignore
