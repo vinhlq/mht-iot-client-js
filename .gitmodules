@@ -1,0 +1,3 @@
+[submodule "examples-js-babel7"]
+	path = examples-js-babel7
+	url = git@github.com:vinhlq/mht-iot-client-examples-js-babel7.git

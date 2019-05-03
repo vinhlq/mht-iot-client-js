@@ -3,11 +3,11 @@
 *.crt
 *.cert
 *.pem
-.env
 credentials.csv
-config
-node_modules
+avd.sh
 examples*
-!/examples-js-babel7
-!/.gitignore
+src
+config
+babel.config.js
+node_modules
 !/.npmignore
